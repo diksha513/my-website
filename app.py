@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Page config
-st.set_page_config(page_title="Diksha Gadataranavar", page_icon="🌐", layout="wide")
+st.set_page_config(page_title="Diksha ", page_icon="🌐", layout="wide")
 
 # Header
 st.title("Hi, I'm Diksha 👋")

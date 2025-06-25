@@ -25,7 +25,7 @@ with st.sidebar:
     - LLMOps, JWT, Dashboards,LangChain ,LLMs,Rag
        
     """)            
-st.text("Reach me at --  diksh2018@gmail.com")
+st.text("Reach me at --  youremail.com")
 
 
 # Projects
@@ -53,8 +53,8 @@ Project link: https://github.com/diksha513/CryptocurrencyPredictor
 
 # Contact
 st.header("📬 Contact")
-st.write("LinkedIn: [MY LinkedIn](https://www.linkedin.com/in/diksha-gadataranavar/)")
-st.write("GitHub: [MY GitHub](https://github.com/diksha513)")
+st.write("LinkedIn: [MY LinkedIn](https://www.linkedin.com/in//)")
+st.write("GitHub: [MY GitHub](https://github.com/)")
 
 
 st.markdown("---")
